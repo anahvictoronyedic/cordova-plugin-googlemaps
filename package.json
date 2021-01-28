@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mapsplugin/cordova-plugin-googlemaps.git"
+    "url": "https://github.com/anahvictoronyedic/cordova-plugin-googlemaps.git"
   },
   "keywords": [
     "google",
@@ -51,9 +51,9 @@
   "author": "Masashi Katsumata, Hirbod Mirjavadi",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/mapsplugin/cordova-plugin-googlemaps/issues"
+    "url": "https://github.com/anahvictoronyedic/cordova-plugin-googlemaps/issues"
   },
-  "homepage": "https://github.com/mapsplugin/cordova-plugin-googlemaps",
+  "homepage": "https://github.com/anahvictoronyedic/cordova-plugin-googlemaps",
   "devDependencies": {
     "cordova-js": "^4.2.4",
     "eslint": "^5.7.0",
